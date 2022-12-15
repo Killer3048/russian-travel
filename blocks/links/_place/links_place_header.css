@@ -1,4 +1,4 @@
-.header__lang-link_links {
+.links_place_header {
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
@@ -9,6 +9,6 @@
     color: #FFFFFF;
 }
 
-.header__lang-link_links:hover {
+.links_place_header:hover {
     opacity: .8;
 }

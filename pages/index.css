@@ -13,6 +13,15 @@
 
 /*  */
 
+@import url(../blocks/links/__active/links__active.css);
+@import url(../blocks/links/_place/links_place_footer.css);
+@import url(../blocks/links/_place/links_place_header.css);
+@import url(../blocks/place/__website/place__website-url-heading.css);
+@import url(../blocks/place/__website/place__website-link.css);
+@import url(../blocks/place/_main-text/place_main-text-paragraph.css);
+
+/*  */
+
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__background/cover__background.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);

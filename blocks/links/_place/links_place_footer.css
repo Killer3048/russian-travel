@@ -1,4 +1,4 @@
-.footer_links_link {
+.links_place_footer {
     align-self: flex-start;
     font-family: 'Inter';
     font-style: normal;
@@ -11,9 +11,9 @@
 }
 
 @media screen and (max-width: 568px) {
-    .footer_links_link {}
+    .links_place_footer {}
 }
 
-.footer_links_link:hover {
+.links_place_footer:hover {
     opacity: .8;
 }
