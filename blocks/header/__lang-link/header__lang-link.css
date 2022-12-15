@@ -1,0 +1,11 @@
+.header__lang-link {
+    align-self: flex-end;
+}
+
+@media screen and (max-width: 568px) {
+    .header__lang-link {
+        width: auto;
+        font-size: 18px;
+        line-height: 20px;
+    }
+}

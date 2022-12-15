@@ -1,0 +1,21 @@
+.place_main-text_paragraph {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 163%;
+}
+
+@media screen and (max-width: 568px) {
+    .place_main-text_paragraph {
+        margin: 26px 16px 0 16px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .place_main-text_paragraph {
+        font-size: 16px;
+        line-height: 26.08px;
+        max-width: 352px;
+    }
+}

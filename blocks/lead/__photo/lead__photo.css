@@ -1,0 +1,5 @@
+.lead__photo {
+    display: grid;
+    grid-template-columns: repeat(auto-fill);
+    margin: 56px auto;
+}

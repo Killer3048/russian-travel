@@ -1,0 +1,28 @@
+.lead__image_city {
+    max-width: 937.09px;
+    padding-top: 90.21px;
+    padding-left: auto;
+    padding-right: auto;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 1024px) {
+    .lead__image_city {
+        max-width: 883.76px;
+        padding-top: 85.07px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .lead__image_city {
+        max-width: 731.38px;
+        padding-top: 70.41px;
+    }
+}
+
+@media screen and (max-width: 426px) {
+    .lead__image_city {
+        max-width: 304.74px;
+        padding-top: 29.34px;
+    }
+}

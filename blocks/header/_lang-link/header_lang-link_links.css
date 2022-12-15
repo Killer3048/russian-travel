@@ -1,0 +1,14 @@
+.header_lang-link_links {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: right;
+    text-decoration-line: none;
+    color: #FFFFFF;
+}
+
+.header_lang-link_links:hover {
+    opacity: .8;
+}

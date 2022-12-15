@@ -1,0 +1,19 @@
+.footer_links_link {
+    align-self: flex-start;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 112%;
+    text-align: right;
+    text-decoration-line: none;
+    color: #FFFFFF;
+}
+
+@media screen and (max-width: 568px) {
+    .footer_links_link {}
+}
+
+.footer_links_link:hover {
+    opacity: .8;
+}
