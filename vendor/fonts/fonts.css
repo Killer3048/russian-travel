@@ -7,5 +7,5 @@
 @font-face {
     font-family: 'Inter';
     font-weight: 900;
-    src: local('Inter-Black'), url(./fonts-file/Inter-Black.ttf) format('truetype'),
+    src: local('Inter-Black'), url(./fonts-file/Inter-Black.ttf) format('truetype');
 }
