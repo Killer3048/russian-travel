@@ -13,7 +13,7 @@
 
 /*  */
 
-@import url(../blocks/links/__active/links__active.css);
+@import url(../blocks/links/_place/links_place_active.css);
 @import url(../blocks/links/_place/links_place_footer.css);
 @import url(../blocks/links/_place/links_place_header.css);
 @import url(../blocks/place/__website/place__website-url-heading.css);
