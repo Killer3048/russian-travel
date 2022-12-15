@@ -1,27 +1,20 @@
 .intro {
-    font-family: 'Inter', Arial, sans-serif;
     display: flex;
     flex-direction: column;
-    max-width: 690px;
-    margin: 0px 442px 92px 148px;
+    padding-top: 92px;
+    color: white;
 }
-
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
     .intro {
-        margin: 0 286px 92px 48px;
+        padding-top: 88px;
+        margin-left: 24px;
+        margin-right: 24px;
     }
 }
-
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
     .intro {
-        max-width: 720px;
-        margin: 0px auto 88px auto;
-    }
-}
-
-@media screen and (max-width: 568px) {
-    .intro {
-        max-width: 288px;
-        margin: 0px auto 64px;
+        padding-top: 64px;
+        margin-left: 16px;
+        margin-right: 16px;
     }
 }
