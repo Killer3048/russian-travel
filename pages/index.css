@@ -18,7 +18,7 @@
 @import url(../blocks/links/_place/links_place_header.css);
 @import url(../blocks/place/__website/place__website-url-heading.css);
 @import url(../blocks/place/__website/place__website-link.css);
-@import url(../blocks/place/_main-text/place_main-text-paragraph.css);
+@import url(../blocks/place/_main-text/place__main-text-paragraph.css);
 
 /*  */
 
