@@ -1,7 +1,55 @@
-Project 3: From Porland to Portland
+# Проект 3: Путешествие по России. 
 
-This project is a website that shows you (the audience) different parts of the USA, a road trip if you will.
+ 
 
-I constructed the site using HTML and CSS. I was able to integrate my new knowledge of flex-grid and media queries.
+**"Путешествие по России"** - это типовой однастраничный сайт про российский внутренний туризм.  
 
-Here is a link to the project: https://jajjer.github.io/web_project_3/#
+ 
+
+Проектная работа на проект https://economy-people.ru/ 
+
+ 
+
+В проектной работе была применено: 
+
+* работа с макетом в Figma 
+
+* построение сложных сеток 
+
+* разширенные возможности HTML и CSS.  
+
+ 
+
+В проектной работе реализована адаптивная вёрстка с помощью Flexbox, Grid Layout и Media queries. 
+
+ 
+
+**В этой проектной работе были использованы следующие технологии:** 
+
+ 
+
+* Flexbox  
+
+* Grid Layout  
+
+* BEM Methodology  
+
+* File Structure and File Paths (Nested BEM)  
+
+* Git  
+
+* Figma  
+
+ 
+
+ 
+
+**Figma** 
+
+ 
+
+* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0) 
+
+ 
+
+ 
