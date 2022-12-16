@@ -1,26 +1,37 @@
+@import url(./__link/footer__link.css);
+@import url(./__link-list/footer__link-list.css);
+@import url(./__link-item/footer__link-item.css);
+@import url(./__copyright/footer__copyright.css);
 .footer {
-    padding-top: 92px;
+    font-family: 'Inter', Arial, sans-serif;
     max-width: 1184px;
-    margin: 0 auto;
     display: flex;
-    color: white;
+    flex-direction: row;
+    flex-flow: row;
+    align-items: flex-end;
+    width: 100%;
+    margin: 92px auto 24px;
     justify-content: space-between;
-    padding-bottom: 24px;
 }
-@media screen and (max-width: 1279px) {
+
+@media screen and (max-width: 1024px) {
     .footer {
         max-width: 928px;
     }
 }
-@media screen and (max-width: 1023px) {
+
+@media screen and (max-width: 768px) {
     .footer {
         max-width: 720px;
+        margin: 88px auto 24px;
     }
 }
+
 @media screen and (max-width: 568px) {
     .footer {
-        max-width: 320px;
+        display: block;
+        max-width: 168px;
         flex-direction: column;
-        padding-top: 64px;
+        margin: 64px 136px 24px 16px;
     }
 }

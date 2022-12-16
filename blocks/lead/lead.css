@@ -1,20 +1,34 @@
-
-.lead{
+@import url(./__caption/lead__caption.css);
+@import url(./__image/lead__image.css);
+@import url(./__subtitle/lead__subtitle.css);
+@import url(./__title/lead__title.css);
+@import url(./__photo/lead__photo.css);
+.lead {
+    font-family: 'Inter', Arial, sans-serif;
     max-width: 984px;
+    display: flex;
+    flex-direction: column;
+    margin: 58px 148px 92px 148px;
+    position: relative;
 }
 
 @media screen and (max-width: 1024px) {
-    .lead{
+    .lead {
         max-width: 928px;
+        margin: 50px auto 92px;
     }
 }
+
 @media screen and (max-width: 768px) {
-    .lead{
-        max-width: 100%;
+    .lead {
+        max-width: 768px;
+        margin: 50px auto 88px;
     }
 }
-@media screen and (max-width: 1024px) {
-    .lead{
-        max-width: 100%;
+
+@media screen and (max-width: 568px) {
+    .lead {
+        max-width: 320px;
+        margin: 50px auto 64px;
     }
 }
