@@ -6,9 +6,9 @@
 
  
 
-Проектная работа на проект https://economy-people.ru/ 
+Проектная работа https://economy-people.ru/ 
 
- 
+Проектная работа на GitHub Pages https://killer3048.github.io/russian-travel/
 
 В проектной работе была применено: 
 
