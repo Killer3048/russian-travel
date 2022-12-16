@@ -1,8 +1,4 @@
-@import url(./__caption/lead__caption.css);
-@import url(./__image/lead__image.css);
-@import url(./__subtitle/lead__subtitle.css);
-@import url(./__title/lead__title.css);
-@import url(./__photo/lead__photo.css);
+
 .lead {
     font-family: 'Inter', Arial, sans-serif;
     max-width: 984px;
