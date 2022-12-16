@@ -1,9 +1,23 @@
 .page {
+    font-family: 'Inter', Arial, sans-serif;
     background-color: #2A2C2F;
-    font-family: "Inter";    
     margin: 0 auto;
+    max-width: 1280px;
+    position: relative;
 }
 
+@media screen and (max-width: 1024px) {
+    .page {
+        max-width: 1024px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .page {
+        max-width: 768px;
+        margin: 0 auto;
+    }
+}
 
 ::-webkit-scrollbar {
     width: 4px;
