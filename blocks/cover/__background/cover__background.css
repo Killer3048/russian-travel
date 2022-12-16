@@ -2,6 +2,7 @@
     background-image: url(../../../images/__background.png);
     background-repeat: no-repeat;
     background-position: center;
+    background-size: contain;
     display: flex;
     flex-direction: column;
     align-items: center;
