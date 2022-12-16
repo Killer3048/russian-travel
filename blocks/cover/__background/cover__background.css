@@ -10,6 +10,7 @@
     justify-content: center;
     text-decoration: none;
     min-height: 740px;
+    max-width: 1184px;
 }
 
 .cover__background::before {
@@ -29,18 +30,21 @@
 
 @media screen and (max-width: 1024px) {
     .cover__background {
+        max-width: 1024px;
         min-height: 640px;
     }
 }
 
 @media screen and (max-width: 768px) {
     .cover__background {
+        max-width: 768px;
         min-height: 480px;
     }
 }
 
 @media screen and (max-width: 568px) {
     .cover__background {
+        max-width: 320px;
         min-height: 200px;
     }
 }
