@@ -1,7 +1,7 @@
 .lead__main-picture {
     display: flex;
     margin: 0 auto;
-    width: 984px;
+    max-width: 984px;
     max-height: 615px;
     padding-top: 64px;
     background-size: cover;
@@ -24,7 +24,7 @@
 @media screen and (max-width: 767px) {
     .lead__main-picture {
         padding-top: 40px;
-        max-width: 320px;
+        max-width: 100%;
         max-height: 200px;
     }
 }
