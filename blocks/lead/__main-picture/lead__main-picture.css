@@ -16,7 +16,6 @@
 
 @media screen and (max-width: 1023px) {
     .lead__main-picture {
-        padding-top: 56px;
         max-height: 480px;
     }
 }
