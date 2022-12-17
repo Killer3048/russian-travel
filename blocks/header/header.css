@@ -5,10 +5,10 @@
     flex-direction: row;
     justify-content: space-between;
     align-items: flex-end;
-    max-width: 984px;
+    max-width: 1184px;
     width: 100%;
     margin: auto;
-    padding-top: 34px;
+    padding-top: 28px;
 }
 
 @media screen and (max-width: 1024px) {
@@ -36,6 +36,6 @@
     .header {
         /*margin: 20px auto 50px;*/
         max-width: 288px;
-        padding-top: 20px;
+        padding-top: 16px;
     }
 }
