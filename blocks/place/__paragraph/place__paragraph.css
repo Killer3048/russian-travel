@@ -5,18 +5,11 @@
     font-size: 18px;
     line-height: 29.34px;
     color: #FFFFFF;
-    max-width: 484px;
     margin-bottom: 26px;
 }
 
 .place__paragraph:last-child {
     margin-bottom: 0px;
-}
-
-@media screen and (max-width: 1024px) {
-    .place__paragraph {
-        max-width: 456px;
-    }
 }
 
 @media screen and (max-width: 768px) {

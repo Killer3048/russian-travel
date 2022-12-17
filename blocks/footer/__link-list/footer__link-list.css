@@ -12,7 +12,7 @@
 @media screen and (max-width: 568px) {
     .footer__link-list {
         flex-direction: column;
-        margin-bottom: 8px;
+        padding: 0;
         justify-content: flex-start;
     }
 }

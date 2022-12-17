@@ -7,17 +7,10 @@
     align-self: flex-end;
 }
 
-.place__website-link {
-    font-family: 'Inter', Arial, sans-serif;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 22px;
-    text-decoration-line: underline;
-    color: #FFFFFF;
-}
-
-.place__website-link:hover {
-    opacity: 0.8;
+@media screen and (max-width: 568px) {
+    .place__website {
+        margin: 0px 16px 30px 16px;
+    }
 }
 
 @media screen and (max-width: 568px) {

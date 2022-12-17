@@ -1,4 +1,3 @@
-
 .place {
     font-family: 'Inter', Arial, sans-serif;
     font-weight: 400;
@@ -9,7 +8,7 @@
     grid-column-gap: 40px;
     grid-row-gap: 48px;
     max-width: 984px;
-    margin-bottom: 73px;
+    margin-bottom: 80px;
 }
 
 .place:last-child {
@@ -26,6 +25,7 @@
 @media screen and (max-width: 768px) {
     .place {
         max-width: 720px;
+        margin-bottom: 73px;
     }
 }
 
@@ -35,5 +35,6 @@
         grid-template-areas: "title" "website" "photo" "paragraph";
         grid-template-columns: 1fr;
         grid-row-gap: 0;
+        margin-bottom: 50px;
     }
 }

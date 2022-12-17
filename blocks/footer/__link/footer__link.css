@@ -2,3 +2,10 @@
     display: flex;
     justify-content: flex-start;
 }
+
+@media screen and (max-width: 568px) {
+    .footer__link {
+        margin-bottom: 16px;
+        /* 16px так как ссылки имеют свой марджин - 32px  */
+    }
+}
